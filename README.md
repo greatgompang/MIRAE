@@ -15,7 +15,7 @@ MIRAE is a benchmark dataset that evaluates how reliably LLMs interpret informat
 ```
 MIRAE/
 ├── data/
-│   ├── MIRAE_augmented_questions_english.json     # 280 English prompts (4 domains × 7 token lengths)
+│   ├── MIRAE_augmented_questions_english.json     # 280 English prompts (4 domains × 10 questions × 7 token lengths)
 │   ├── MIRAE_augmented_questions_korean.json      # 280 Korean prompts
 │   ├── MIRAE_augmented_questions_chinese.json     # 280 Chinese prompts
 │
