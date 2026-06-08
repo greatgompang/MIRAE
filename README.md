@@ -29,7 +29,7 @@ MIRAE/
 │   │   │   ├── MIRAE_gemini2_results_english.json
 │   │   │   ├── MIRAE_gemini2_results_korean.json
 │   │   │   └── MIRAE_gemini2_results_chinese.json
-│   │   └── gpt4_mini/
+│   │   └── gpt4o_mini/
 │   │       ├── MIRAE_gpt4omini_results_english.json
 │   │       ├── MIRAE_gpt4omini_results_korean.json
 │   │       └── MIRAE_gpt4omini_results_chinese.json
@@ -43,7 +43,7 @@ MIRAE/
 │       │   ├── MIRAE_gemini2_results_english.json
 │       │   ├── MIRAE_gemini2_results_korean.json
 │       │   └── MIRAE_gemini2_results_chinese.json
-│       └── gpt4_mini/
+│       └── gpt4o_mini/
 │           ├── MIRAE_gpt4omini_results_english.json
 │           ├── MIRAE_gpt4omini_results_korean.json
 │           └── MIRAE_gpt4omini_results_chinese.json
